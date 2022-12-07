@@ -18,7 +18,7 @@ public class CastingPractice1 {
 		//정수형으로 강제형변환해서 소수점 버림처리
 		
 		System.out.println(iNum2 * dNum); //10.0
-		//double이 더 큰 자료형으로 double로 강제형변환
+		//double이 더 큰 자료형으로 double로 자동형변환
 		System.out.println((double)iNum1); //10.0
 		//iNum1이 정수형이므로 실수형인 double로 강제형변환
 		
